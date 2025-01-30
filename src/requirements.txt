@@ -1,0 +1,4 @@
+torch
+yt-dlp
+static-ffmpeg
+openai-whisper
