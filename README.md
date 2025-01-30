@@ -59,6 +59,15 @@ O **YouText** é uma ferramenta que permite baixar vídeos do YouTube, extrair o
 
 ---
 
+## Screenshot
+Video em português:
+![Screenshot](templates/Screenshots/screenshot.png)
+&nbsp;
+Video em inglês:
+![Screenshot](templates/Screenshots/screenshot2.png)
+
+---
+
 ## 💡 Ideias Futuras
 - **Salvar o texto em formato pdf**: Salvar o texto transcrito em um arquivo PDF e dividir em topicos com introdução desenvolvimento e conclusão.
 - **Interface gráfica**: Adicionar uma interface gráfica para facilitar o uso.
